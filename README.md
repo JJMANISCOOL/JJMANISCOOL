@@ -2,7 +2,7 @@
 - 👀 I’m interested in making games for people
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on making the games it forever one
-- 📫 How to reach me Gmail
+- 📫 How to reach me Gmail 50572@txkisd.net
 - Cheers to @ro2alive
 <!---
 JJMANISCOOL/JJMANISCOOL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
